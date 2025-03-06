@@ -17,3 +17,8 @@ This project automates the testing of the login form on the **[SauceDemo Website
 - **Test Scripts**: Contains individual test scripts for each use case.
 - **Page Objects**: Contains the page object model for the login and inventory page.
 - **Configurations**: WebDriverIO configuration files, including settings for browsers (Chrome and Edge), parallel execution, and logging.
+- **Branches**:
+  - **Cucumber Branch**: This branch includes test cases implemented using Cucumber for Behavior-Driven Development (BDD).
+  - **Mocha Branch**: This branch includes test cases implemented using Mocha for traditional test-driven development (TDD).
+
+  
