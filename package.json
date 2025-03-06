@@ -1,0 +1,13 @@
+{
+  "name": "Cucumber practice",
+  "type": "module",
+  "devDependencies": {
+    "@wdio/cli": "^9.10.1",
+    "@wdio/cucumber-framework": "^9.10.1",
+    "@wdio/local-runner": "^9.10.1",
+    "@wdio/spec-reporter": "^9.10.1"
+  },
+  "scripts": {
+    "wdio": "wdio run ./src/config/wdio.conf.cjs"
+  }
+}
