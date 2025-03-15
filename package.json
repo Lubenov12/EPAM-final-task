@@ -9,5 +9,8 @@
   },
   "scripts": {
     "wdio": "wdio run ./src/config/wdio.conf.cjs"
+  },
+  "dependencies": {
+    "winston": "^3.17.0"
   }
 }

@@ -1,0 +1,4 @@
+[INFO]: Running test: Expect error message to be Epic sadface: Username is required got Epic sadface: Username is required
+[INFO]: Running test: Expect error message to be Epic sadface: Password is required got Epic sadface: Password is required
+[INFO]: Running test: Expect title to be Swag Labs, got Swag Labs
+[INFO]: Running test: Expect url to be /inventory.html, got /inventory.html
